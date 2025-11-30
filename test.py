@@ -1,1 +1,1 @@
-print"Wassup Buddy!! v9")
+t"Wassup Buddy!! v9")
